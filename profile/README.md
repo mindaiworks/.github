@@ -1,5 +1,5 @@
-# 🧠 Mind AI
-> Mind AI — Towards AGI
+![Mind AI Logo](logos/MindAI_Logo.png)
+> Mind AI 通往 AGI 的永恆之道
 
 ## 🚀 專案簡介
 Mind Model 是一套完整的演繹框架，將人類思考中的形學與邏輯推理系統化，補上 LLM 缺少的演繹能力——讓 AI 不只會從資料歸納統計，更能進行精確、可解釋的結構化推理。
