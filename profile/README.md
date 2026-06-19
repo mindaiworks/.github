@@ -9,7 +9,7 @@ Mind AI — Towards AGI
 </p>
 
 ## About Us
-Mind AI is developed by a professional team of over 50 members, who cover areas such as AI research, knowledge engineering, and system development. We are dedicated to systematizing deductive reasoning and creating the next generation of explainable and reasoning-capable AI infrastructure. 
+Mind AI is a team dedicated to the research and development of AGI, focusing on integrating reasoning, knowledge and learning capabilities, and exploring the future of universal artificial intelligence.
 
 ## Contact Information
 mindaiworks@gmail.com
