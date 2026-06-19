@@ -8,3 +8,8 @@ Mind AI is developed by a professional team of over 50 members, who cover areas 
 
 ## Contact Information
 mindaiworks@gmail.com
+
+<p align="center">
+  <a href="README.zh.md">繁體中文</a> |
+  <a href="README.md">English</a>
+</p>
