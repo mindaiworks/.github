@@ -19,8 +19,8 @@ LonGeat is a team dedicated to the research and development practice of AGI (Art
 We believe that true AGI does not merely rely on the expansion of the parameter size of large language models (LLMs), but rather requires the establishment of a comprehensive intelligent framework that can integrate knowledge, understand the world, conduct reasoning, continuously learn, and engage in autonomous thinking. <br>
 Therefore, based on the three core research directions of "morphology", "Mind Model" and "Mind AI", we are pursuing the eternal path towards AGI. <br>
 ________________________________________
-I. Morphology (A Completely New Discipline) <br>
-Morphology is a brand-new discipline proposed by LonGeat. <br>
+I. Typeology  (A Completely New Discipline) <br>
+Typeology  is a brand-new discipline proposed by LonGeat. <br>
 The research focuses on how the human brain perceives, understands, reasons and creates knowledge through "forms". <br>
 The brain's thinking is composed of form and number. <br>
 After long-term research and development, numbers have evolved into mathematics. <br>
