@@ -33,7 +33,8 @@ Not a knowledge graph. The knowledge graph has many flaws and cannot be used for
 ➜ Single structure encompasses: <br>
 Language knowledge, mathematical knowledge, scientific knowledge, programming knowledge, philosophical knowledge, business knowledge, etc. <br>
 ➜ Practical application of the core capabilities of the human brain: <br>
-Logical reasoning, thinking methods, design patterns, pattern extraction, research and development exploration, continuous learning, planning management, memory management, etc. <br> ________________________________________
+Logical reasoning, thinking methods, design patterns, pattern extraction, research and development exploration, continuous learning, planning management, memory management, etc. <br> 
+________________________________________
 III. Mind AI Mind AI × LLM<br>
 Mind AI is the core platform for practicing AGI. <br>
 The concept is: to establish a complete intelligent system. <br>
