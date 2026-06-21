@@ -1,6 +1,6 @@
 <p align="center">
   <a href="README.zh.md">繁體中文</a> |
-  <a href="README.md">English</a>|||
+  <a href="README.md">English</a>|---
    <a align="right" href="https://github.com/mindaiworks/Paper">Paper</a>
 </p>
 
