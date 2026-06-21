@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="README.zh.md">繁體中文</a> |
+  <a href="README.md">English</a>
+</p>
 <p align="center" float="left">
   <img alt="MindAI Logo" src="https://github.com/mindaiworks/.github/blob/main/logos/MindAI_Logo.png" />
 </p>
@@ -41,9 +45,5 @@ From the unification of thinking to the unification of wisdom,<br>
 Ultimately achieving an AGI that truly possesses the abilities of understanding, reasoning, learning and creation. <br>
 The first version will be released in August 2026.
 ## Contact Information
-mindaiworks@gmail.com
-
-<p align="center">
-  <a href="README.zh.md">繁體中文</a> |
-  <a href="README.md">English</a>
-</p>
+mindaiworks@gmail.com<br>
+gamma@livemail.tw
