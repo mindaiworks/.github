@@ -1,7 +1,6 @@
 <p align="center">
-  <a href="README.zh.md">繁體中文</a> |
-  <a href="README.md">English</a>|---
-   <a align="right" href="https://github.com/mindaiworks/Paper">Paper</a>
+  <a href="README.md">English</a> ｜ 
+  <a href="https://github.com/mindaiworks/Paper">📖 論文📖</a>
 </p>
 <p align="center" float="left">
   <img alt="MindAI Logo" src="https://github.com/mindaiworks/.github/blob/main/logos/MindAI_Logo.png" />
