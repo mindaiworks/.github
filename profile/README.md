@@ -45,7 +45,7 @@ To create a smart system that can understand the essence of the world. <br>
 From the unification of knowledge to the unification of thinking,<br>
 From the unification of thinking to the unification of wisdom,<br>
 Ultimately achieving an AGI that truly possesses the abilities of understanding, reasoning, learning and creation. <br>
-The first version will be released in August 2026.
+
 ## Contact Information
 mindaiworks@gmail.com<br>
 gamma@livemail.tw
