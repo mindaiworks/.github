@@ -1,6 +1,7 @@
 <p align="center">
   <a href="README.md">English</a> ｜ 
   <a href="https://github.com/mindaiworks/Paper">📖 論文📖</a>
+  <a href="https://github.com/mindaiworks/Ontypology">📖本形学　Ontypology</a>
 </p>
 <p align="center" float="left">
   <img alt="MindAI Logo" src="https://github.com/mindaiworks/.github/blob/main/logos/MindAI_Logo.png" />
@@ -19,8 +20,8 @@ LonGeat 是一個專注於 AGI（Artificial General Intelligence，通用人工�
 我們相信，真正的 AGI 並非單純依靠大型語言模型（LLM）參數規模的擴張，而是需要建立一套能夠統一知識、理解世界、進行推理、持續學習與自主思考的智慧架構。<br>
 因此，我們以「形學」、「Mind Model」與「Mind AI」三大核心研究方向為基礎，實踐通往 AGI 的永恆之道。<br>
 ________________________________________
-一、形學（一門全新的學問）<br>
-形學是 LonGeat 提出的全新學問。<br>
+一、本形學（一門全新的學問）<br>
+本形學是 LonGeat 提出的全新學問。<br>
 研究人類大腦如何透過「形」來認知、理解、推理與創造知識。<br>
 大腦思考由形+數合成 <br>
 數長久研究發展下來為數學<br>
@@ -48,5 +49,6 @@ LonGeat 願景<br>
 
 
 ## 聯絡資訊
-mindaiworks@gmail.com<br>
-gamma@livemail.tw
+张长丰gamma@livemail.tw
+
+张楟颍mindaiworks@gmail.com
