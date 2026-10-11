@@ -1,6 +1,6 @@
 <p align="center">
   <a href="README.zh.md">中文</a> ｜ 
-  <a href="https://github.com/mindaiworks/Paper">Mind AI</a>
+  <a href="https://github.com/mindaiworks/Paper">Mind AI</a> ｜ 
   <a href="https://github.com/mindaiworks/Ontypology">📖本形学　Ontypology</a>
 
   
