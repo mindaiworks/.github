@@ -1,6 +1,6 @@
 <p align="center">
   <a href="README.md">English</a> ｜ 
-  <a href="https://github.com/mindaiworks/Paper">📖 論文📖</a>
+  <a href="https://github.com/mindaiworks/Paper">📖 Mind AI📖</a>
   <a href="https://github.com/mindaiworks/Ontypology">📖本形学　Ontypology</a>
 </p>
 <p align="center" float="left">
@@ -55,6 +55,6 @@ LonGeat 願景<br>
 
 <p align="center">
   <a href="README.md">English</a> ｜ 
-  <a href="https://github.com/mindaiworks/Paper">📖 論文📖</a>
+  <a href="https://github.com/mindaiworks/Paper">📖 Mind AI📖</a>
   <a href="https://github.com/mindaiworks/Ontypology">📖本形学　Ontypology</a>
 </p>
