@@ -20,7 +20,7 @@ LonGeat 是一個專注於 AGI（Artificial General Intelligence，通用人工�
 我們相信，真正的 AGI 並非單純依靠大型語言模型（LLM）參數規模的擴張，而是需要建立一套能夠統一知識、理解世界、進行推理、持續學習與自主思考的智慧架構。<br>
 因此，我們以「形學」、「Mind Model」與「Mind AI」三大核心研究方向為基礎，實踐通往 AGI 的永恆之道。<br>
 ________________________________________
-一、本形學（一門全新的學問）<br>
+一、 <a href="https://github.com/mindaiworks/Ontypology">本形學（一門全新的學問）</a>
 本形學是 LonGeat 提出的全新學問。<br>
 研究人類大腦如何透過「形」來認知、理解、推理與創造知識。<br>
 大腦思考由形+數合成 <br>
