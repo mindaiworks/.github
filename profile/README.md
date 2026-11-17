@@ -1,5 +1,6 @@
 <p align="center">
   <a href="https://github.com/mindaiworks/.github/blob/main/profile/README.en.md">English</a> ｜ 
+  <a href="http://www.longreat.net">简体中文</a> ｜ 
   <a href="https://github.com/mindaiworks/Paper">📖 Mind AI📖</a>｜ 
   <a href="https://github.com/mindaiworks/Ontypology">📖本形学　Ontypology</a>
 </p>
